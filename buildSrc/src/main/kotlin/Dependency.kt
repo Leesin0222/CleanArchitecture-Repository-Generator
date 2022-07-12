@@ -21,8 +21,6 @@ object Dependency {
             "androidx.activity:activity-compose:${Version.activityCompose}"
         const val coilCompose =
             "io.coil-kt:coil-compose:${Version.coilCompose}"
-        const val pinEntryEditText =
-            "com.alimuzaffar.lib:pinentryedittext:${Version.pinEntryEditText}"
     }
 
     object GradlePlugin {
